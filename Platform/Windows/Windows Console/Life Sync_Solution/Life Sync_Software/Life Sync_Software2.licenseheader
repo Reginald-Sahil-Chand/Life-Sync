@@ -1,0 +1,36 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+// ----------------------------------------------------------------------------
+// License Information
+// ----------------------------------------------------------------------------
+// Copyright (c) 2023 Reginald Sahil Chand. All Rights Reserved.
+// 
+// The copyright of this software and its associated documentation is owned by 
+// Reginald Sahil Chand and shall always remain with the original author.
+//
+// This file is part of Life Sync.
+//
+// Life Sync is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// any later version.
+//
+// Life Sync is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with Life Sync. If not, see <https://www.gnu.org/licenses/>.
+// ----------------------------------------------------------------------------
+
+extensions: .aspx .ascx
+<%-- 
+Copyright (c) 2023 Reginald Sahil Chand & Life Sync. All Rights Reserved.
+--%>
+extensions: .vb
+'Sample license text.
+extensions:  .xml .config .xsd
+<!--
+Sample license text.
+-->
